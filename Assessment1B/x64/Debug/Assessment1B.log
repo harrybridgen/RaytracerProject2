@@ -1,0 +1,30 @@
+﻿  Assessment1B.cpp
+C:\Users\Harry\Desktop\ThirdYr\Graphics\Coursework\Assessment1B\Assessment1B\do_not_edit.h(96,34): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\Harry\Desktop\ThirdYr\Graphics\Coursework\Assessment1B\Assessment1B\do_not_edit.h(96,34): warning C4267:         with
+C:\Users\Harry\Desktop\ThirdYr\Graphics\Coursework\Assessment1B\Assessment1B\do_not_edit.h(96,34): warning C4267:         [
+C:\Users\Harry\Desktop\ThirdYr\Graphics\Coursework\Assessment1B\Assessment1B\do_not_edit.h(96,34): warning C4267:             _Ty=unsigned int
+C:\Users\Harry\Desktop\ThirdYr\Graphics\Coursework\Assessment1B\Assessment1B\do_not_edit.h(96,34): warning C4267:         ]
+  (compiling source file 'Assessment1B.cpp')
+  
+C:\Users\Harry\Desktop\ThirdYr\Graphics\Coursework\Assessment1B\Assessment1B\do_not_edit.h(148,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'unsigned __int64'
+  (compiling source file 'Assessment1B.cpp')
+  C:\Users\Harry\Desktop\ThirdYr\Graphics\Coursework\Assessment1B\Assessment1B\do_not_edit.h(148,9):
+  consider using '%zd' in the format string
+  
+C:\Users\Harry\Desktop\ThirdYr\Graphics\Coursework\Assessment1B\Assessment1B\do_not_edit.h(160,87): warning C4244: '=': conversion from 'float' to 'char', possible loss of data
+  (compiling source file 'Assessment1B.cpp')
+  
+C:\Users\Harry\Desktop\ThirdYr\Graphics\Coursework\Assessment1B\Assessment1B\do_not_edit.h(161,87): warning C4244: '=': conversion from 'float' to 'char', possible loss of data
+  (compiling source file 'Assessment1B.cpp')
+  
+C:\Users\Harry\Desktop\ThirdYr\Graphics\Coursework\Assessment1B\Assessment1B\do_not_edit.h(162,87): warning C4244: '=': conversion from 'float' to 'char', possible loss of data
+  (compiling source file 'Assessment1B.cpp')
+  
+C:\Users\Harry\Desktop\ThirdYr\Graphics\Coursework\Assessment1B\Assessment1B\raytrace.h(81,10): warning C4101: 'shadow_colour': unreferenced local variable
+  (compiling source file 'Assessment1B.cpp')
+  
+C:\Users\Harry\Desktop\ThirdYr\Graphics\Coursework\Assessment1B\Assessment1B\raytrace.h(153,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Assessment1B.cpp')
+  
+C:\Users\Harry\Desktop\ThirdYr\Graphics\Coursework\Assessment1B\Assessment1B\do_not_edit.h(150,1): warning C4715: 'obj_parse': not all control paths return a value
+  Assessment1B.vcxproj -> C:\Users\Harry\Desktop\ThirdYr\Graphics\Coursework\Assessment1B\x64\Debug\Assessment1B.exe
